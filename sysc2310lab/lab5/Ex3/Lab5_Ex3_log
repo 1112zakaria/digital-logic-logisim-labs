@@ -1,0 +1,16 @@
+x	Output Combinational.A	Output Combinational.B	Output Combinational.C	Input Combinational.Ja	Input Combinational.Ka	Input Combinational.Jb	Input Combinational.Kb	Input Combinational.Jc	Input Combinational.Kc	y
+0	0	0	0	0	1	0	0	0	1	0
+1	0	0	0	0	1	0	0	1	1	0
+1	0	0	1	0	1	1	1	1	1	0
+0	0	0	1	0	1	0	1	0	1	0
+1	0	0	1	0	1	1	1	1	1	0
+1	0	1	0	0	1	0	0	0	1	0
+0	0	1	0	0	1	0	0	1	1	0
+1	0	1	0	0	1	0	0	0	1	0
+0	0	1	0	0	1	0	0	1	1	0
+1	0	1	0	0	1	0	0	0	1	0
+0	0	1	0	0	1	0	0	1	1	0
+0	0	1	1	0	1	0	1	1	1	0
+1	0	1	1	1	1	1	1	0	1	0
+0	0	1	1	0	1	0	1	1	1	0
+0	0	0	0	0	1	0	0	0	1	0
